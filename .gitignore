@@ -1,0 +1,15 @@
+# Logs
+*.log
+*.out
+nohup.out
+
+# Backup/temp files
+*~
+*.bak
+*.swp
+*.tmp
+
+# System monitor runtime files
+sysmon_*.out
+sysmon_restart.log
+sysmon_master.log
